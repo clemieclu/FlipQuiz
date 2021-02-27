@@ -7,7 +7,7 @@
 The app displays a questions and on user click reveals an answer.
 
 
-<img src="https://recordit.co/UwcMQV41yp" width=200><br>
+<img src="http://g.recordit.co/UwcMQV41yp.gif" width=200><br>
 
 
 ## Required
